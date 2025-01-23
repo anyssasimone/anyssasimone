@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Anyssa's Project Archive 📁</h1>
+<h3 align="center">Preserving Code & Ideas</h3>
 
-<!--
-**anyssasimone/anyssasimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  HI there, this is my archival GitHub account, where I store and organize projects, scrapped experiments, and resources for reference and inspiration.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗂 What's Here
+- **Personal Projects**: Completed works and experiments I no longer deem necessary to display on my portfolio.  
+- **Archived Repositories**: Preserving old code for reference.  
+
+---
+
+### 🤝 Open for Collaboration
+Feel free to explore, fork, or use any code here. Contributions and feedback are always welcome!
